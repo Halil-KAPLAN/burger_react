@@ -21,6 +21,7 @@ const Contact = () => {
           />
           <label htmlFor="message">Mesajınız</label>
           <textarea rows="6" name="message" placeholder="Mesajınızı girin..." />
+          <button>GÖNDER</button>
         </form>
       </div>
     </div>
